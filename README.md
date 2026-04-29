@@ -1,4 +1,5 @@
 Overview
+
 This repository contains semester 4 machine learning practical assignments for the course. Each assignment is stored in its own folder and includes a Jupyter notebook implementation, plus related data files and a Colab-ready PDF where available.
 
 Author
@@ -9,6 +10,38 @@ Div : CSEAI-SEDA
 Batch : B1 
 
 Course Project Link : https://github.com/apurvv28/Pre-Delinquency-Intervention-System
+
+Assignment Summary
+
+Assignment 1:
+Dataset operations including data loading, cleaning, transformation, and exploratory data analysis using Pandas and NumPy.
+
+Assignment 2:
+Implemented data preprocessing and visualization techniques for understanding dataset patterns.
+
+Assignment 3:
+Implemented regression-based machine learning model and performance evaluation.
+
+Assignment 5:
+Implemented classification model using supervised learning techniques.
+
+Assignment 6:
+Implemented distance-based learning algorithm for classification tasks.
+
+Assignment 8:
+Implemented probabilistic classification method for prediction tasks.
+
+Assignment 9:
+Implemented clustering technique for unsupervised learning.
+
+Assignment 10:
+Implemented dimensionality reduction techniques for feature analysis.
+
+Assignment 11:
+Performed model evaluation and validation using testing methods.
+
+Assignment 13:
+Implemented comparative analysis of machine learning models and performance results.
 
 How to run
 1. Open [Google Colab](https://colab.research.google.com).
