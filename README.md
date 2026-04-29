@@ -6,7 +6,7 @@ Name : Nisha Yuvraj Pragane
 Roll No : 13
 PRN : 1252090013
 Div : CSEAI-SEDA
-Batch : B1
+Batch : B1 
 
 Course Project Repo : https://github.com/apurvv28/Pre-Delinquency-Intervention-System
 
