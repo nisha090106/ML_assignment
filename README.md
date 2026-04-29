@@ -8,7 +8,7 @@ PRN : 1252090013
 Div : CSEAI-SEDA
 Batch : B1 
 
-Course Project Repo : https://github.com/apurvv28/Pre-Delinquency-Intervention-System
+Course Project Link : https://github.com/apurvv28/Pre-Delinquency-Intervention-System
 
 How to run
 1. Open [Google Colab](https://colab.research.google.com).
