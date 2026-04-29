@@ -2,7 +2,7 @@ Overview
 This repository contains semester 4 machine learning practical assignments for the course. Each assignment is stored in its own folder and includes a Jupyter notebook implementation, plus related data files and a Colab-ready PDF where available.
 
 Author
-Name : Nisha Yuvraj Pragane
+Name : Nisha Yuvraj Pragane 
 Roll No : 13
 PRN : 1252090013
 Div : CSEAI-SEDA
